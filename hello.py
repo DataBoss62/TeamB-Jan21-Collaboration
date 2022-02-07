@@ -15,6 +15,7 @@ print(type(var2))
 var1 = "hello"
 var2 = "World"
 var3 = 3
-var4 = 4
+var4 = 16
 print(f"{var1} {var2}")
 print(var1 + var2)
+print(int(var4/var3))

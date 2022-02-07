@@ -29,6 +29,7 @@
 # dict1["email"] = "123.com"
 # print(dict1.keys())
 # print(dict1.values())
+# tuple(dict1.items())
 
 # Sets, creates sets from lists
 # print(set(list1))

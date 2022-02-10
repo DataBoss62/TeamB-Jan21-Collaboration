@@ -50,6 +50,7 @@ class Budget():
     def main(self):
         os.system('cls')  
         print("\nYour current total balance is \n£", self.Initbalance)
+        While 
         self.Deposit()
         self.Withdraw()
         os.system('pause')

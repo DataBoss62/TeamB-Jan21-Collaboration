@@ -8,6 +8,7 @@ def Grade (homework, assessment, finalScore):
 
 
 name = input("What is your name? ")
+
 homework = int(input ("Enter homework score out of 25 "))
 while homework >25:
     print("invalid number, try again")
@@ -36,3 +37,4 @@ else:
 
 print (f"{name}, Your final ICT score is {finalGrade}% with a grade {grade}" )
 print(f"{name} scored: {Grade(homework,assessment,finalScore)}")  # alternative
+

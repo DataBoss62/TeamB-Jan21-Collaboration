@@ -12,3 +12,4 @@ class Budget():
     def deposit(self,amount):
         self.balance += amount
         return amount
+
